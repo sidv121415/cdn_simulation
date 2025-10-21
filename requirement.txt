@@ -1,0 +1,22 @@
+# Web Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Dashboard and Visualization
+dash==2.14.2
+plotly==5.18.0
+
+# Data Processing
+pandas==2.1.4
+
+# HTTP Requests
+requests==2.31.0
+
+# Real-time Updates
+flask-socketio==5.3.5
+
+# System Monitoring
+psutil==5.9.6
+
+# File Monitoring (for HLS segments)
+watchdog==3.0.0
